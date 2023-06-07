@@ -16,16 +16,16 @@ void main()
 		case 'W':
 			printf("wednesday");
 			break;
-	    case 'TH':
+	    case 'H':
 			printf("thursday");
 			break;				
 		case 'F':
 			printf("friday");
 			break;
-		case 'SA':
+		case 'A':
 			printf("saturday");
 			break;
-		case 'SU':
+		case 'S':
 			printf("sunday");
 			break;	
 	   default:
